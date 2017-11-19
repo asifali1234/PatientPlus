@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "842670044806",
+    "project_id": "patient-19fa5"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842670044806:android:96296ecb7d0048dd",
+        "android_client_info": {
+          "package_name": "com.genesis.patient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842670044806-vq0th6rkm6uqmhpt5o76ktm9l5ff0226.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.genesis.patient",
+            "certificate_hash": "9d5f52228f1288e0d800b7b05f8c8bcc60c3d0e5"
+          }
+        },
+        {
+          "client_id": "842670044806-fhuuf4io7v83d0it4m26usmna3epstpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc-RKFcAAFnKJPT2S_Ek6TzbZ2mUmrMD0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

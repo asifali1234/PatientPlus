@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/asif/.android/build-cache/ebb9804df665fc939fdacbced36454807b0d02be/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ff6e83c0041bd68f31a747b833877668ddfef847">
+        <dex dex="/home/asif/carehack/new/Patient-Android/app/build/intermediates/pre-dexed/debug/classes_914c53ca3d0d22b1cd9573e3ec46747dfcbf303b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asif/.android/build-cache/1eb7763c679758526e5317d77bbfbcfd4d4d07a1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="93b7d6ba3bb340e935bf7a36408eb3455264b759">
+        <dex dex="/home/asif/carehack/new/Patient-Android/app/build/intermediates/pre-dexed/debug/classes_c993c0d926c17008ff8b5e1f5c1695821696d3da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asif/.android/build-cache/9929efdfea51133e8eb1173d748aaa07d6f90885/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cb0e016008a69ce9d44500aa84a5d69b1875f8c8">
+        <dex dex="/home/asif/carehack/new/Patient-Android/app/build/intermediates/pre-dexed/debug/classes_a84fe1d361f51f4570d7eb24af8b92b410f38081.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asif/.android/build-cache/ce78b2aae5cc857f24d0512a2bf216ded584398c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="/home/asif/carehack/new/Patient-Android/app/build/intermediates/pre-dexed/debug/classes_607f2508a6d31431e6c800018579bdc8ea7fa2f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asif/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.23.0/e57ea1e2220bda5a2bd24ff17860212861f3c5cf/google-oauth-client-1.23.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e57ea1e2220bda5a2bd24ff17860212861f3c5cf">
+        <dex dex="/home/asif/carehack/new/Patient-Android/app/build/intermediates/pre-dexed/debug/google-oauth-client-1.23.0_fe665ef4a075bbaf2a301e0a0f3b59b254209d2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asif/.android/build-cache/f0ef243a630f592ee221f8eac05fb79a0d56d2f5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="/home/asif/carehack/new/Patient-Android/app/build/intermediates/pre-dexed/debug/classes_2a10089243bacf50e68d7ce1d386cead0c7677b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asif/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-calendar/v3-rev265-1.23.0/bc06604f791d77508250c984a95046ecc94cfce7/google-api-services-calendar-v3-rev265-1.23.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bc06604f791d77508250c984a95046ecc94cfce7">
+        <dex dex="/home/asif/carehack/new/Patient-Android/app/build/intermediates/pre-dexed/debug/google-api-services-calendar-v3-rev265-1.23.0_cc7a1342b2b67aa5af10345018f0ac7a58dfa1c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asif/.android/build-cache/019ec48ba8ed7b062ddd9fa45a2476569574f945/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/home/asif/carehack/new/Patient-Android/app/build/intermediates/pre-dexed/debug/classes_bd59f4624242208eb01db79fd6a04399c28edce1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asif/.android/build-cache/f3b2dd0f25676023dd07c914dab2e3284326749a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="09adf6e61abc0fe3b2cb5b1795a7033572475fad">
+        <dex dex="/home/asif/carehack/new/Patient-Android/app/build/intermediates/pre-dexed/debug/classes_e781b18a5cb6b40a95ac7d002766f89194bd401f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asif/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-android/1.23.0/b95521559faf49989ff036a5b15fd16476bdc955/google-api-client-android-1.23.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b95521559faf49989ff036a5b15fd16476bdc955">
+        <dex dex="/home/asif/carehack/new/Patient-Android/app/build/intermediates/pre-dexed/debug/google-api-client-android-1.23.0_901dd5486a1b42befea717ce51da91fea404c919.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asif/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/17.0/463f8378feba44df7ba7cd9272d01837dad62b36/guava-jdk5-17.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="463f8378feba44df7ba7cd9272d01837dad62b36">
+        <dex dex="/home/asif/carehack/new/Patient-Android/app/build/intermediates/pre-dexed/debug/guava-jdk5-17.0_aa47cbc04c0b4e2dff463d9b59189323041f1584.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asif/.android/build-cache/3fcce28ac5d42f52659eae740079486ac179adeb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/home/asif/carehack/new/Patient-Android/app/build/intermediates/pre-dexed/debug/classes_aedc28787fca904f752604776242f8309af4e59a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asif/.android/build-cache/1cd204335b2d94c92fded0b1bdde1a9a39f8c8fd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9aac0e8d327d8c8a5e48dfe0d084553a5482151c">
+        <dex dex="/home/asif/carehack/new/Patient-Android/app/build/intermediates/pre-dexed/debug/classes_380e96ac4938c83aa43cf6035174df72bcd0f57f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asif/.android/build-cache/57348f1e9cea9494497a74af5b0521dab96018f1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/home/asif/carehack/new/Patient-Android/app/build/intermediates/pre-dexed/debug/classes_0a889a841a39d36e2612f0b944535d2a7a452dea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asif/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/home/asif/carehack/new/Patient-Android/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.0_5eedfdc0ca7c32792d2908a839c1566540600cac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asif/.android/build-cache/6a9647beb9c5a22df8250f39f0958347f0306ea4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/home/asif/carehack/new/Patient-Android/app/build/intermediates/pre-dexed/debug/classes_846fd85a96e86c96454c1996b940017bcecd11cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asif/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/home/asif/carehack/new/Patient-Android/app/build/intermediates/pre-dexed/debug/jackson-core-2.1.3_fb9421742c88cc018fac49e820caf4f3c86e4fce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asif/.android/build-cache/53762ceb6afbc92ca61bf3a9179f85a46fe8fc02/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/home/asif/carehack/new/Patient-Android/app/build/intermediates/pre-dexed/debug/classes_c05700a44299bea4469876797c7b71fa4abcab5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asif/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.23.0/8e86c84ff3c98eca6423e97780325b299133d858/google-http-client-1.23.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8e86c84ff3c98eca6423e97780325b299133d858">
+        <dex dex="/home/asif/carehack/new/Patient-Android/app/build/intermediates/pre-dexed/debug/google-http-client-1.23.0_2695c7071a3cc5600473d4e5f52fb40ad1fc1f8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asif/.android/build-cache/b2b541385df3108b0b3eb05114cd83f7b91a7de4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/asif/carehack/new/Patient-Android/app/build/intermediates/pre-dexed/debug/classes_a08a69f97a40b44d9068a312429598631eaebb8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asif/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.23.0/522ea860eb48dee71dfe2c61a1fd09663539f556/google-api-client-1.23.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="522ea860eb48dee71dfe2c61a1fd09663539f556">
+        <dex dex="/home/asif/carehack/new/Patient-Android/app/build/intermediates/pre-dexed/debug/google-api-client-1.23.0_5100f15ebb7f738d22eb3b2841b0812b1000154c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asif/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-android/1.23.0/1bbe77a8594d7892571266392b8a7dd0a5980664/google-http-client-android-1.23.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1bbe77a8594d7892571266392b8a7dd0a5980664">
+        <dex dex="/home/asif/carehack/new/Patient-Android/app/build/intermediates/pre-dexed/debug/google-http-client-android-1.23.0_e38e03b3ac07688a9f97f44de8324eac476d02e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asif/.android/build-cache/df06ba2e8679676d22a927c1f1ecf3b365be86ce/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/home/asif/carehack/new/Patient-Android/app/build/intermediates/pre-dexed/debug/classes_34baa7aae58a5c9b70422423694da59080ad8429.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asif/.android/build-cache/cc53debbf55bc770a3c47762c65c7da0e7f3530f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5a25890ba5b70ea20f4921e1fe7683449b03bd1c">
+        <dex dex="/home/asif/carehack/new/Patient-Android/app/build/intermediates/pre-dexed/debug/classes_39bdc561b79b9feb2189c6bb37b855eac9e43f12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asif/.android/build-cache/87baced6607874240218719bfaa8fb3d8f05ed01/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="/home/asif/carehack/new/Patient-Android/app/build/intermediates/pre-dexed/debug/classes_529d6e6332e7f649a447bb669433810cabedd508.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asif/.android/build-cache/7cc8335de29c8ece6d3a1321c44c74a4d1cbdf47/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/home/asif/carehack/new/Patient-Android/app/build/intermediates/pre-dexed/debug/classes_37451e188c677728af5c4d471c6cb45a2a670f26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asif/.android/build-cache/5f4bfaa3735c417ef491610643f278d36e90b245/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/home/asif/carehack/new/Patient-Android/app/build/intermediates/pre-dexed/debug/classes_3e3afddbad194979f2f10d166bf079fa23e58998.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asif/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/home/asif/carehack/new/Patient-Android/app/build/intermediates/pre-dexed/debug/jsr305-1.3.9_601e271506094f7c6405b5d13c57de61e37c1f4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/asif/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.23.0/fd6761f4046a8cb0455e6fa5f58e12b061e9826e/google-http-client-jackson2-1.23.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fd6761f4046a8cb0455e6fa5f58e12b061e9826e">
+        <dex dex="/home/asif/carehack/new/Patient-Android/app/build/intermediates/pre-dexed/debug/google-http-client-jackson2-1.23.0_fc25c0bbe9b58cc5576c0426125134a018557a1f.jar" />
+    </item>
+
+</items>

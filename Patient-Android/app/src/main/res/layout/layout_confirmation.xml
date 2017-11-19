@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="25dp"
+    android:layout_gravity="center"
+    android:background="@drawable/backsign"
+    android:gravity="center"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="6dp"/>
+    <TextView
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:textColor="#fff"
+        android:text="Are you sure you want to book"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="7dp"/>
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="30dp"
+        android:background="@drawable/form_yes_shape"
+        android:text="Book"
+        android:id="@+id/confirm_book"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="7dp"/>
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="30dp"
+        android:background="@drawable/form_no_shape"
+        android:text="Cancel"
+        android:id="@+id/cancel_book"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="7dp"/>
+
+</LinearLayout>

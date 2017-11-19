@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backsign"
+    android:orientation="vertical"
+    >
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@color/space_transparent"
+        android:gravity="center"
+        android:layout_marginTop="15dp"
+        android:minHeight="?attr/actionBarSize"
+        android:textAlignment="center"
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textSize="28dp"
+            android:textColor="#fff"
+            android:text="Patient Registration"/>
+
+
+    </android.support.v7.widget.Toolbar>
+
+
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/backsign"
+            android:orientation="vertical"
+            android:layout_gravity="center"
+            android:gravity="center">
+
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="40dp"
+                android:gravity="center"
+                android:textAlignment="center"
+                android:textColor="#fff"
+                android:text="An OTP has been sent to your registered mobile number. Please enter the OTP"/>
+
+            <LinearLayout
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="40dp"
+                android:id="@+id/form_group2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/form_group_shape"
+                android:focusableInTouchMode="true"
+                android:orientation="vertical"
+                >
+
+
+                <com.genesis.patient.CustomEditText
+                    android:id="@+id/patient_otp"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/sample_edit_text_default_height"
+                    android:background="@android:color/transparent"
+                    android:hint="OTP"
+                    android:imeOptions="actionDone"
+                    android:inputType="number"
+                    android:maxLines="1"
+                    android:paddingLeft="@dimen/sample_edit_text_padding_horizontal"
+                    android:paddingRight="@dimen/sample_edit_text_padding_horizontal"
+                    android:textSize="@dimen/sample_edit_text_size" />
+
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="20dp" />
+
+            <Button
+                android:id="@+id/patient_verify"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Verify"
+                android:layout_gravity="center"
+                android:textColor="#fff"
+                android:background="@drawable/form_submit_shape"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp" />
+
+
+        </LinearLayout>
+
+
+
+
+</LinearLayout>
