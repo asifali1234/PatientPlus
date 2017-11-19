@@ -19,6 +19,7 @@
             <li :class="{'active-menu': this.routePath=='previous-appointments'}" @click="activeMenu=4">
                 <router-link to="/dashboard/previous-appointments">Previous Appointments</router-link>
             </li>
+            <li @click="clearStorage"><a >Logout</a></li>
         </ul>
     </div>
 </template>
@@ -39,6 +40,15 @@
                 activeMenu: 2
             }
         },
+        methods:{
+            clearStorage(){
+                localStorage.removeItem('user-name');
+                localStorage.removeItem('user-email');
+                localStorage.removeItem('user-dp');
+                localStorage.removeItem('user-googleid');
+                this.$router.push('/');
+            }
+        }
     }
 </script>
 <style scoped>

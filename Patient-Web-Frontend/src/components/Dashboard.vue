@@ -15,6 +15,15 @@
         name: 'dashboard',
         components: {
             "patient-menu": PatientMenu
+        },
+        beforeMount(){
+            var status = localStorage.getItem('user-googleid');
+            console.log(status);
+            if(status==null)
+            this.$router.push('/signin');
+            if(status.length==0)
+            this.$router.push('/signin');
+            this.$router.push('/dashboard/my-appointments');
         }
     }
 </script>

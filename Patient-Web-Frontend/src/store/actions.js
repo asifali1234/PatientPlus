@@ -26,7 +26,7 @@ export default {
 			body: JSON.stringify(data)
 		};
 		console.log(data);
-		fetch(`${host}/api/mobileVerification"`, options)
+		fetch(`${host}/api/mobileVerification`, options)
 			.then(response => response.text)
 			.then(data => console.log(data))
 			.catch(err => console.log(err));

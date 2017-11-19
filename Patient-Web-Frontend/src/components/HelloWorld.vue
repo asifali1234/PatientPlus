@@ -6,10 +6,12 @@
 export default {
   name: 'HelloWorld',
   beforeMount(){
-    var status = this.$store.getters.getGoogleId;
-    if(status!=undefined)
-      if(status.length==0)
-        this.$router.push('/signin');
+    var status = localStorage.getItem('user-googleid');
+    console.log(status);
+    if(status==null)
+      this.$router.push('/signin');
+    if(status.length==0)
+       this.$router.push('/signin');
     this.$router.push('/dashboard/my-appointments');
   }
 }
