@@ -1,0 +1,29 @@
+{
+  "name": "carehack",
+  "version": "1.0.0",
+  "description": "Application for patient doctor appointements",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "carehack",
+    "hackathon",
+    "entry",
+    "challenge"
+  ],
+  "author": "Aravind C Ranjan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongojs": "^2.4.1",
+    "node-google-calendar": "^1.1.1",
+    "python-shell": "^0.4.0",
+    "sendotp": "^1.2.8",
+    "slack-notify": "^0.1.6"
+  }
+}

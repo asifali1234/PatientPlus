@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "carehack-186017",
+  "private_key_id": "bc8263d11b230e08d2b5de0a707e3cae99991110",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCyhoezH9y9F3px\nnnzS6s6Q3/SjUo/NVkYqlBWFoBydBS2tOH7Ahjb8FNkPNvSgqONeF13aqCDX80YL\ndY+VRbXCKDhSnf1XtaKSzKVCG4Z2HTr70pwXQGL/UuNCO814+nNxIn+lbjwvyce7\nz5ezjWs3KJFSN5ljWnfdsDjR3UNLrun6A69ilHWBuYp+KqocIewaKLgOW5eF9TR+\nhMW0L5yZqBGD07Wc0DO363ea1qi3bq5yUCrCUUpr9OAaBS/vsMCKOSPJVAgfp2pw\nNEdDz3RsTSF0bG5LqN1ffnWQQGcoYmk72Ak6/hyNs6RzoG1Bfj2cnfceowRVGIG+\n0Ydts/0fAgMBAAECggEAEicr1UMAJxokETmUZ74IkyKytYjHppGHQP0d0yCcyDqm\nkl6URO9g1/EmwS1NYqjJtd+aY4mFDXBnRvMFTqBwAvYkBAKcqDaH+XVluHskCQ6f\n2Mtpo9OgPWYoRavfENYmtvJTGHdFF3blIGvTeSaAKHOvkzSkHD4uwhQRMwXUufU7\nn/gSnH+oqMMzj6ltCnJR0h9ZJEJIAvck8TvNmxyZKUZ+MPbjHpEvcfNz2jgHYz8k\nAQ2daj2iQtxNvNAJKLmd6QIspech3QsAitc3p1QYBIbaJ2Wj/s7eqTbv4HtpF+mz\nT0JbRlvUnYAvN/PvWsevLFgplJCGT7dHC+AsHm7ewQKBgQDpiXeDlKqsoeZtq5Ov\noTorIaZBwmQEOhzKe4mOSNKWw99rhtOljTv9zNVGOOoer4W715ocFNmvcRsHCdzg\nC6E4WKhVzigQSTjQFP/TFXPS1xNomarSl7f1m0nIxwBgZn++huUGqsv/XHUzvygM\nfFmjCovnTJu5aWubfOM8AxXYywKBgQDDsnrcpZET2Ez0JWAYJEPJZ7cyPWQ0IcZJ\nHRM7dM5CxEeX301Z6ojqgPLvZcUj37UJ9BR23ZmLmEFki3rApi6fwbJkkQAHqHQ6\nPz9r8HErPV/hfQfa1yxQ3hz4GkHPT8LjhlNpfS0VJpxMvi70VZ8mjhnTGKHD/yEd\ndFyfrTEmfQKBgQDQQgl1Kn9lQV9mz4n9Jg7kZbaIj9x3NId2PeJ2IxTA4916Wxqk\nWKV1+FL8s0Z8pNPipirE/gb+ACQ1C6OPnG9h+xXqptRtaY6jaQaV61yFWczyC48d\nC7U97gRHasc4ME+czVixsGAI0h+mTMJfGAkrbv1B/7wjBRKz7xQI8UtrLwKBgQCa\nC3BzJ1EgEe/hb1pJJqLFc4LdZT3vW3a+Lsjo0HVcUS0Z+4jj8p58Ga0hjTa1mm7j\nuuIw/xbSr7Mp9jFWXHnu/4Xxa8JeRNfY0diWmto6c0F6OfVo6l/T+ENNeT28dsiu\nWRpnu0U1lQML1dkYNB3nN4xUgtszcS0cBnCysJ4z8QKBgQC38wW+6SshOby1XZYg\nam5DSarXU0IKBp1nx4Z3m5KF3nJyeZWKie0/jc5nq36cmGFUGV+Uw5oUk3FQRlYS\nzzED6dbrzMJXEJNpbgSfqb/WKJEo3PKRaN97GpdkkJCTPI0Oq/En46zX2NDgbxIY\n6NV1tVEgk8xj/D6M6OAW0+zpDQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "carehack@carehack-186017.iam.gserviceaccount.com",
+  "client_id": "117365488798229850943",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/carehack%40carehack-186017.iam.gserviceaccount.com"
+}

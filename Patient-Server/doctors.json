@@ -1,0 +1,81 @@
+[
+  {
+
+    "doctorid": "456",
+    "name": "James Wilson",
+    "available": [
+      {
+        "days": "Monday",
+        "time": "7:00-11:00"
+      },
+      {
+        "days": "Friday",
+        "time": "4:00-9:00"
+      }
+    ],
+    "department": "Oncology"
+  },
+  {
+
+    "doctorid": "678",
+    "name": "Lisa Cuddy",
+    "available": [
+      {
+        "days": "Monday",
+        "time": "7:00-11:00"
+      },
+      {
+        "days": "Friday",
+        "time": "4:00-9:00"
+      }
+    ],
+    "department": "Endocrinology"
+  },
+  {
+
+    "doctorid": "890",
+    "name": "Eric Foreman",
+    "available": [
+      {
+        "days": "Monday",
+        "time": "7:00-11:00"
+      },
+      {
+        "days": "Tuesday",
+        "time": "4:00-9:00"
+      }
+    ],
+    "department": "Neurologist"
+  },
+  {
+
+    "doctorid": "679",
+    "name": "Allison Cameroon",
+    "available": [
+      {
+        "days": "Monday",
+        "time": "7:00-11:00"
+      },
+      {
+        "days": "Wednesday",
+        "time": "4:00-9:00"
+      }
+    ],
+    "department": "Immunologist"
+  },
+  {
+    "doctorid": "680",
+    "name": "Robert Chase",
+    "available": [
+      {
+        "days": "Monday",
+        "time": "7:00-11:00"
+      },
+      {
+        "days": "Tuesday",
+        "time": "4:00-9:00"
+      }
+    ],
+    "department": "Intensive Care"
+  }
+]
